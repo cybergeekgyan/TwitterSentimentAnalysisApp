@@ -1,0 +1,15 @@
+streamlit
+pandas
+snscrape
+textblob
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+torchvision
+torchaudio
+tensorflow-macos
+tensorflow-metal
+flax
+jax[cpu]
